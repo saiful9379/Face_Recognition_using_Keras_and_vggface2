@@ -1,0 +1,7 @@
+python == 3.6
+numpy==1.13.3+mkl
+Keras==2.2.4
+tensorflow = 1.13.1  
+opencv-python==4.1.1+contrib
+keras_vggface = 0.6  
+scipy = 1.2.1
