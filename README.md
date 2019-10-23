@@ -59,14 +59,14 @@ Then run the real time demo,
 ```
 python face_identify_demo.py
 ```
-##Train the model 
+## Train the model 
 
 Run,
 ```
 python precompute_features.py
 
 ```
-###Contributor
+### Contributor
 
 - Md.saiful islam
 - Shahmuna Tonni
