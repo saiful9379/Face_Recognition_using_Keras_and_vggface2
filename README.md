@@ -66,6 +66,9 @@ Run,
 python precompute_features.py
 
 ```
+# Demo video 
+[ Demo video link](https://www.linkedin.com/posts/saiful-islam-907128ba_face-detection-activity-6634525075406188544-t61p)
+
 ### Contributor
 
 - Md.saiful islam
