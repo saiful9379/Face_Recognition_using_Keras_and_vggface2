@@ -3,6 +3,8 @@
 This is project was created by vgg16 pretrained model.
 
  Here is the demo
+ 
+![face identification demo](result/sai.png "face identification demo")
 
 ![face identification demo](result/barak.png "face identification demo")
 
